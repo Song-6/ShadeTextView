@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="abbShadeColor" format="color"/>
+
+    <declare-styleable name="CustomTitleView">
+        <attr name="abbShadeColor"/>
+    </declare-styleable>
+
+</resources>
